@@ -19,7 +19,7 @@ create a conda environment using ```conda create --name indicxnli python=3.7``` 
 Install requirements by typing the following command-
 ```pip install -r requirements.txt``` 
 
-Download and unpack the [IndicXNLI dataset](#todo) into ```./data``` in the main ```IndicXNLI``` folder. 
+Download and unpack the [IndicXNLI dataset](https://huggingface.co/datasets/Divyanshu/indicxnli/tree/main) into ```./data``` in the main ```IndicXNLI``` folder. 
 
 Carefully read the <b>LICENCE</b> for non-academic usage. 
 
