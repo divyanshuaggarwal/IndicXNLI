@@ -7,7 +7,7 @@ Implementation of the translation pipeline, automatic sampling and scoring,human
 }
 ```
 
-Below are the details about the [IndicXNLI datasets](#todo) and scripts for reproducing the results reported in the [ACL 2022](https://www.2022.aclweb.org/) paper.
+Below are the details about the [IndicXNLI datasets](#todo) and scripts for reproducing the results reported in the ARR Feb 2022 Cycle paper.
 
 ## 0. Prerequisites
 The code requires `python 3.7+` 
