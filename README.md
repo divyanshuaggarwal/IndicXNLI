@@ -1,6 +1,6 @@
 # IndicXNLI
 
-Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our [ACL 2022](https://www.2022.aclweb.org/) paper: [IndicXNLI: A Dataset for Studying NLI in Indic Languages](#todo). To explore the dataset online visit [dataset page](#todo).
+Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our ARR Feb 2022 Cycle Submission paper: [IndicXNLI: Evaluating Multilingual Inference for Indian Languages](#todo). To explore the dataset online visit [dataset page](#todo).
 ```
 @inpoceeding{
     #TODO
