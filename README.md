@@ -2,8 +2,22 @@
 
 Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our ARR Feb 2022 Cycle Submission paper: [IndicXNLI: Evaluating Multilingual Inference for Indian Languages](#todo). To explore the dataset online visit [dataset page](#todo).
 ```
-@inpoceeding{
-    #TODO
+@misc{https://doi.org/10.48550/arxiv.2204.08776,
+  doi = {10.48550/ARXIV.2204.08776},
+  
+  url = {https://arxiv.org/abs/2204.08776},
+  
+  author = {Aggarwal, Divyanshu and Gupta, Vivek and Kunchukuttan, Anoop},
+  
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {IndicXNLI: Evaluating Multilingual Inference for Indian Languages},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
 
