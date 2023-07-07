@@ -1,6 +1,6 @@
 # IndicXNLI
 
-Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our ARR Feb 2022 Cycle Submission paper: [IndicXNLI: Evaluating Multilingual Inference for Indian Languages](https://aclanthology.org/2022.emnlp-main.755/). To explore the dataset online visit [dataset page](https://huggingface.co/datasets/Divyanshu/indicxnli).
+Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our EMNLP 2022 paper: [IndicXNLI: Evaluating Multilingual Inference for Indian Languages](https://aclanthology.org/2022.emnlp-main.755/). To explore the dataset online visit [dataset page](https://huggingface.co/datasets/Divyanshu/indicxnli).
 ```
 @inproceedings{aggarwal-etal-2022-indicxnli,
     title = "{I}ndic{XNLI}: Evaluating Multilingual Inference for {I}ndian Languages",
