@@ -1,27 +1,24 @@
 # IndicXNLI
 
-Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our ARR Feb 2022 Cycle Submission paper: [IndicXNLI: Evaluating Multilingual Inference for Indian Languages](#todo). To explore the dataset online visit [dataset page](#todo).
+Implementation of the translation pipeline, automatic sampling and scoring,human evaluation and experiments in our ARR Feb 2022 Cycle Submission paper: [IndicXNLI: Evaluating Multilingual Inference for Indian Languages](https://aclanthology.org/2022.emnlp-main.755/). To explore the dataset online visit [dataset page](https://huggingface.co/datasets/Divyanshu/indicxnli).
 ```
-@misc{https://doi.org/10.48550/arxiv.2204.08776,
-  doi = {10.48550/ARXIV.2204.08776},
-  
-  url = {https://arxiv.org/abs/2204.08776},
-  
-  author = {Aggarwal, Divyanshu and Gupta, Vivek and Kunchukuttan, Anoop},
-  
-  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {IndicXNLI: Evaluating Multilingual Inference for Indian Languages},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{aggarwal-etal-2022-indicxnli,
+    title = "{I}ndic{XNLI}: Evaluating Multilingual Inference for {I}ndian Languages",
+    author = "Aggarwal, Divyanshu  and
+      Gupta, Vivek  and
+      Kunchukuttan, Anoop",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.755",
+    pages = "10994--11006",
+    abstract = "While Indic NLP has made rapid advances recently in terms of the availability of corpora and pre-trained models, benchmark datasets on standard NLU tasks are limited. To this end, we introduce INDICXNLI, an NLI dataset for 11 Indic languages. It has been created by high-quality machine translation of the original English XNLI dataset and our analysis attests to the quality of INDICXNLI. By finetuning different pre-trained LMs on this INDICXNLI, we analyze various cross-lingual transfer techniques with respect to the impact of the choice of language models, languages, multi-linguality, mix-language input, etc. These experiments provide us with useful insights into the behaviour of pre-trained models for a diverse set of languages.",
 }
 ```
 
-Below are the details about the [IndicXNLI datasets](#todo) and scripts for reproducing the results reported in the ARR Feb 2022 Cycle paper.
+Below are the details about the [IndicXNLI datasets](#todo) and scripts for reproducing the results reported in the EMNLP 2022 Paper.
 
 ## 0. Prerequisites
 The code requires `python 3.7+` 
