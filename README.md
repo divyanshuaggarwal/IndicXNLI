@@ -18,7 +18,7 @@ Implementation of the translation pipeline, automatic sampling and scoring,human
 }
 ```
 
-Below are the details about the [IndicXNLI datasets](#todo) and scripts for reproducing the results reported in the EMNLP 2022 Paper.
+Below are the details about the [IndicXNLI datasets](https://huggingface.co/datasets/Divyanshu/indicxnli) and scripts for reproducing the results reported in the EMNLP 2022 Paper.
 
 ## 0. Prerequisites
 The code requires `python 3.7+` 
